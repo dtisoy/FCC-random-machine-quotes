@@ -1,5 +1,5 @@
 {
-  "name": "personal-portfolio",
+  "name": "freecodecamp-quotes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,9 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-bootstrap": "^2.10.2",
+    "bootstrap": "^5.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
